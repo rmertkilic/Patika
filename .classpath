@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="kdv/src"/>
+	<classpathentry kind="src" path="NotOrtalamasi/src"/>
+	<classpathentry kind="src" path="triangle/src"/>
+	<classpathentry kind="output" path="NotOrtalamasi/bin"/>
+</classpath>
